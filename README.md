@@ -34,7 +34,7 @@ Below, we will discuss in turn the morphological filters that should be implemen
 
 
 
-2.Erosion. By an edge pixel of an image we mean a black pixel, one of its neighbors is a white
+2. Erosion. By an edge pixel of an image we mean a black pixel, one of its neighbors is a white
 pixel. The erosion operation first locates all edge pixels in an image and then sets them to
 white. The erosion effect can be seen below:
 
@@ -47,7 +47,7 @@ pixels that are adjacent to the black pixel are changed to black.
 
 
 
-4.Reset - total reset, tabula rasa - set all pixels to white:
+4. Reset - total reset, tabula rasa - set all pixels to white:
 
 ![image](https://user-images.githubusercontent.com/64771436/177344894-dbb881af-14d6-44fb-acf8-2be47a0b9564.png)
 
